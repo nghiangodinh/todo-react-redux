@@ -2,3 +2,6 @@ this is second file
 Another file
 
 add another line 
+
+Edit commit
+Add new line 

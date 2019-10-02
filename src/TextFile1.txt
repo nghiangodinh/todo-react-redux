@@ -2,3 +2,5 @@ this is first line
 this is second line
 
 I am Nghia
+
+update this --amend
